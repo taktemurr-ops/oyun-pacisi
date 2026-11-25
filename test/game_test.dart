@@ -1,5 +1,4 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:masa_motoru/masa_motoru.dart';
 import 'package:oyun_pacisi/oyun_pacisi.dart';
 import 'package:studio_core/core/level_plan.dart';
 
